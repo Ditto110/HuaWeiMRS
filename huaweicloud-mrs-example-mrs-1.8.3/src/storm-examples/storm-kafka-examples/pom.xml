@@ -16,7 +16,7 @@
     <version>1.8.0</version>
 
     <properties>
-        <storm.version>1.2.1-mrs-1.8.0</storm.version>
+        <storm.version>1.2.2</storm.version>
         <curator.version>2.10.0</curator.version>
         <kafka.version>1.1.0-mrs-1.8.0</kafka.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
